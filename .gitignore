@@ -1,0 +1,4 @@
+cp_img/
+es_img/
+*.onnx
+*.mp4
